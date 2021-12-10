@@ -1,0 +1,8 @@
+Comment,Description,Designator,Footprint,LibRef,Quantity
+
+"Phoenix Contact 1757271","CONN HEADER RT ANG 5POS 5.08MM","CN1, CN2, CN3, CN4, CN5, CN6","PCB-724730-1","CMP-724730-5","6"
+"5MM LED GRN","LED Uni-Color Green 2-Pin T-1 3/4 Bulk","D1, D2, D3, D4, D5","PCB-b5vk7vz0xhkw7l0fnova-1","CMP-92bb5b2eff764d7c-3","5"
+"Terminal Block 2 Pin","Phoenix 1757242 MSTBA 2.5/ 2-G-5.08 Base Strip/Header 4 Kilo-Volt Surge 320 Volt Rated III/2 12 Amp Green Plug-In","J1, J2, J3, J4, J5, J6, J7, J8","PCB-ql61zn8zkg5jhnhgc34e-1","CMP-0680cf8a1162d947-10","8"
+"100 ohm","Res Carbon Film 1K Ohm 5% 1/4W -400ppm/°C to 0ppm/°C Conformal AXL Thru-Hole T/R","R1, R2, R3, R4, R5","PCB-bfjjg625tt0lscyu35rt-1","CMP-db3e1311f37e04f9-1","5"
+"SW-SPDT-3_B","200 Series SPDT On-None-On Right Angle Sub-Miniature Toggle Switch","S1, S2, S3, S4, S5","PCB-nfio538mx6iu86i8e1eg-1","CMP-d175186fcc2b0eb2-2","5"
+"5V 5A VR","Pololu 5V 5A STEP-DOWN D24V50F5","U1, U2, U3, U4, U5","PCB-gx56lwkdibc2guard68n-1","CMP-f7dc3be52868281b-2","5"
